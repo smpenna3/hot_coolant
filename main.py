@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Better Move Sprite With Keyboard
 
@@ -183,4 +184,13 @@ def main():
 
 
 if __name__ == "__main__":
+=======
+import arcade
+
+
+def main():
+    pass
+
+if __name__ == '__main__':
+>>>>>>> origin/master
     main()
